@@ -2,15 +2,14 @@
 Glaucoma Classification
 ---------------------
 A Flask based Web Application to predict images of Glaucoma and Non-Glaucoma. 
-Check out the `example site <http://glucoma-classification.herokuapp.com//>`_!
+
 
 -----
 What did i made it?
 -----
-This is a practice project for my ML Training provided by Dell Technologies.
-Place:  Dell Campus, Hyderabad
+This is a practice project for my ML Training.
 Trainer : Kanth
-Date: Nov - Dec 2019
+Date: Nov - Dec 2023
 
 -----
 Usage
@@ -42,7 +41,4 @@ Rights
 This project is available for public use.
 
 -----
-Contributors
------
-Bachittarjeet Singh
-Himanshu Bhawra
+
